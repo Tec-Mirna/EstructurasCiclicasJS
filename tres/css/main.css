@@ -1,0 +1,28 @@
+.card {
+    background-color: rgb(208, 208, 214) !important;
+    margin: 22px;
+    width: 289px; 
+    border: 1px solid black;
+}
+.title1{
+    font-size: 20px;
+    font-weight: bold;
+}
+.title0{
+    padding-top: 25px;
+    padding-left: 16px;
+}
+/* Tabla de porcentajes */
+table {
+    border: 1px solid black;
+    width: 17%;
+    margin-left: 50px;
+    text-align: center;
+}
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+th {
+    background-color: #f2f2f2;
+}

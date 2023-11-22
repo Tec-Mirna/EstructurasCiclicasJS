@@ -1,0 +1,12 @@
+table {
+   border: 1px solid black;
+   margin: 16px;
+}
+.title{
+    margin: 16px;
+}
+th, td {
+  
+    padding: 8px;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+body{
+   padding: 30px; 
+}
+h1{
+    margin: 29px;
+   padding-top: 19px; 
+   
+} 
+p{
+  margin: 5px;
+}
+.boton{
+    margin-left: 5px;
+    background-color: rgb(76, 204, 97);
+    margin-bottom: 16px;
+}
